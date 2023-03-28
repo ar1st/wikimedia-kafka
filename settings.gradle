@@ -1,0 +1,4 @@
+rootProject.name = 'wikimedia-kafka'
+include 'wikimedia-kafka-producer'
+include 'wikimedia-kafka-consumer-opensearch'
+
